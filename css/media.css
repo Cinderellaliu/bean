@@ -1,0 +1,21 @@
+@media(max-width: 1800px){
+	.game-rank-item{margin-top:470px;}
+}
+@media(max-width: 1700px){
+	.game-rank-item{margin-top:450px;}
+}
+@media(max-width: 1600px){
+	.game-rank-item{margin-top:430px;}
+}
+@media(max-width: 1500px){
+	.game-rank-item{margin-top:410px;}
+}
+@media(max-width: 1400px){
+	.game-rank-item{margin-top:380px;}
+}
+@media(max-width: 1300px){
+	.game-rank-item{margin-top:360px;}
+}
+@media(max-width: 1200px){
+	.game-rank-item{margin-top:330px;}
+}
